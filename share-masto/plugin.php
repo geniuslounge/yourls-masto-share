@@ -19,7 +19,7 @@ function mastodon_share_url( $args ) {
     
     // Plugin URL (no URL is hardcoded)
     $pluginurl = YOURLS_PLUGINURL . '/'.yourls_plugin_basename( dirname(__FILE__) );
-    $icon = $pluginurl.'/mastodon.png';
+    $icon = $pluginurl.'/mastodon.svg';
     echo <<<Mastodon
     <style type="text/css">
     #share_mastodon{
