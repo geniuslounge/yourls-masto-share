@@ -14,4 +14,4 @@ Installation
 ------------
 1. Download the [latest release]
 2. Extract the archive and copy folder `share-masto` to `/user/plugins`.
-3. Go to the Plugins administration page ( *eg* `http://sho.rt/admin/plugins.php` ) and activate the plugin.
+3. Go to the Plugins administration page ( *eg* `http://<your YOUrls domain>/admin/plugins.php` ) and activate the plugin.
